@@ -1,0 +1,8 @@
+Flask==2.3.3
+graphviz==0.20.1
+networkx==3.1
+pathlib==1.0.1
+python-dotenv==1.0.0
+reportlab==4.0.4
+pycairo==1.24.0
+Pillow==10.0.0
